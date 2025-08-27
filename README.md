@@ -1,8 +1,8 @@
 # poc-next-ideas
 
 ## Pending
-- 1. SpringBoot Data JDBC
-  - 1.1 Compare pros and cons with Hibernate
-- 2. Heap Data Structure
+- SpringBoot Data JDBC
+  - Compare pros and cons with Hibernate
+- Heap Data Structure
 
 ## Done
